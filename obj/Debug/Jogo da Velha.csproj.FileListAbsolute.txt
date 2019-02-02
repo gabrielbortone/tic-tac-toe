@@ -1,0 +1,10 @@
+C:\Projetos\Jogo da Velha\Jogo da Velha\bin\Debug\Jogo da Velha.exe.config
+C:\Projetos\Jogo da Velha\Jogo da Velha\bin\Debug\Jogo da Velha.exe
+C:\Projetos\Jogo da Velha\Jogo da Velha\bin\Debug\Jogo da Velha.pdb
+C:\Projetos\Jogo da Velha\Jogo da Velha\obj\Debug\Jogo da Velha.csprojAssemblyReference.cache
+C:\Projetos\Jogo da Velha\Jogo da Velha\obj\Debug\Jogo_da_Velha.Properties.Resources.resources
+C:\Projetos\Jogo da Velha\Jogo da Velha\obj\Debug\Jogo da Velha.csproj.GenerateResource.cache
+C:\Projetos\Jogo da Velha\Jogo da Velha\obj\Debug\Jogo da Velha.csproj.CoreCompileInputs.cache
+C:\Projetos\Jogo da Velha\Jogo da Velha\obj\Debug\Jogo da Velha.exe
+C:\Projetos\Jogo da Velha\Jogo da Velha\obj\Debug\Jogo da Velha.pdb
+C:\Projetos\Jogo da Velha\Jogo da Velha\obj\Debug\Jogo_da_Velha.FrmMain.resources
